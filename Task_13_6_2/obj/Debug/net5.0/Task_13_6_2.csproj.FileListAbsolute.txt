@@ -1,0 +1,16 @@
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/bin/Debug/net5.0/Task_13_6_2
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/bin/Debug/net5.0/Task_13_6_2.deps.json
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/bin/Debug/net5.0/Task_13_6_2.runtimeconfig.json
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/bin/Debug/net5.0/Task_13_6_2.runtimeconfig.dev.json
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/bin/Debug/net5.0/Task_13_6_2.dll
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/bin/Debug/net5.0/Task_13_6_2.pdb
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/Task_13_6_2.csproj.AssemblyReference.cache
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/Task_13_6_2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/Task_13_6_2.AssemblyInfoInputs.cache
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/Task_13_6_2.AssemblyInfo.cs
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/Task_13_6_2.csproj.CoreCompileInputs.cache
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/Task_13_6_2.dll
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/refint/Task_13_6_2.dll
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/Task_13_6_2.pdb
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/Task_13_6_2.genruntimeconfig.cache
+/Volumes/exFat/VisualStudio Projects/SkillFactory/SF_Module-13-FinalTask/Task_13_6_2/obj/Debug/net5.0/ref/Task_13_6_2.dll
